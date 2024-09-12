@@ -1,0 +1,11 @@
+{
+  "name": "Polished diorite slab",
+  "icon": "minecraft:polished_diorite_slab",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Polished diorite slab, can be craft with three polished diorite or in the stonecutter"
+    }
+  ]
+}

@@ -18,7 +18,12 @@ group = mod_group_id
 
 repositories {
     mavenLocal()
-    maven { url 'https://maven.blamejared.com' }
+    maven {
+        url 'https://maven.blamejared.com'
+    }
+    flatDir {
+        dirs 'libs'
+    }
 }
 
 base {
@@ -114,9 +119,7 @@ configurations {
 }
 
 dependencies {
-    //---------------------------------------------------------------------------------
-    //compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.21-87-NEOFORGE:api")
-    //runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.21-87-NEOFORGE")
+    implementation "vazkii.patchouli:Patchouli:1.21-87-NEOFORGE"
 
 
     // Example optional mod dependency with JEI

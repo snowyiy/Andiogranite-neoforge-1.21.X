@@ -1,0 +1,11 @@
+{
+  "name": "Diorite slab",
+  "icon": "minecraft:diorite_slab",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Diorite slab, can be craft with three diorite or in the stonecutter"
+    }
+  ]
+}

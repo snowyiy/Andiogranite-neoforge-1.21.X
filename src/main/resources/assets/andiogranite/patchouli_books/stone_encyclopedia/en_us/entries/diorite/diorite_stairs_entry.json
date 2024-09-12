@@ -1,0 +1,11 @@
+{
+  "name": "Diorite stairs",
+  "icon": "minecraft:diorite_stairs",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Diorite stairs, can be craft with six diorite or in the stonecutter"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diorite wall",
+  "icon": "minecraft:diorite_wall",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Diorite wall, can be craft with six diorite or in the stonecutter"
+    }
+  ]
+}

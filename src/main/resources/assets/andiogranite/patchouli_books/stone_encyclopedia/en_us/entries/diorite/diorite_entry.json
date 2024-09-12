@@ -1,0 +1,11 @@
+{
+  "name": "Diorite",
+  "icon": "minecraft:diorite",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Diorite, found in diorite cave, can be craft with two quartz and two cobblestone"
+    }
+  ]
+}

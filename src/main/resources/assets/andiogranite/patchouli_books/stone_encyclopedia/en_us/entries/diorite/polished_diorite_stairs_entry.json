@@ -1,0 +1,11 @@
+{
+  "name": "Polished diorite stairs",
+  "icon": "minecraft:polished_diorite_stairs",
+  "category": "andiogranite:diorite/diorite_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "polished diorite stairs, can be craft with six polished diorite or in the stonecutter"
+    }
+  ]
+}
