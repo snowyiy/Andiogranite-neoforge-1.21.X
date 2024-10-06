@@ -2,6 +2,6 @@
   "name": "Stone Encyclopedia",
   "landing_text": "Welcome to Andiogranite ! \nHere you will find all the block variants added by this mod",
   "version": 1,
-  "creative_tab": "minecraft:tools_and_utilities",
+  "creative_tab": "creativetab.andiogranite.andiogranite_tab",
   "use_resource_pack": true
 }
