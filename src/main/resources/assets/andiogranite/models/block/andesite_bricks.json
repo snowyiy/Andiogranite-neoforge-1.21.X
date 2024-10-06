@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "andiogranite:block/andesite_bricks"
+  }
+}
